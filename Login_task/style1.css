@@ -1,0 +1,84 @@
+.todo-app{
+    width: 500px;
+    background-color: lightblue;
+    padding: 20px 30px 15px;
+    margin-left: 500px;
+    align-items: right;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.todo-app h1{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    width: 50px;
+}
+
+.form-control{
+    width: 50vh;
+    height: 25px;
+    border : 1px solid black;
+}
+
+.addbtn{
+    width: 50px;
+    height: 30px;
+    border : 1px solid black; 
+    cursor: pointer;  
+}
+
+.deletebtn{
+    width: 100px;
+    height: 30px;
+    border : 1px solid black;  
+    cursor: pointer; 
+}
+
+.to-do-output{
+    width: 70px;
+}
+
+.table{
+    width: 500px;
+    height: 100px;
+}
+
+.text-primary{
+     width: 50px;
+    height: 30px;
+    border : 1px solid black;   
+}
+
+.text-danger{
+     width: 50px;
+    height: 30px;
+    border : 1px solid black; 
+}
+
+
+/*input[type="text"]{
+    width: 500px;
+    height: 25px;
+    border : 1px solid black;
+}*/
+
+/*.btn{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+     width: 50px;
+    height: 30px;
+}
+*/
+/*ul li{
+    list-style-type: none;
+    font-size: 1.1em;
+    padding: 10px 6px 30px;
+    cursor: pointer;
+}
+*/
+/*.task-list{
+    padding: 0px 30px;
+}
+*/
