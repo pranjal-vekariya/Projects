@@ -18,7 +18,7 @@ window.onload = function(){
 			tile.id = r.toString() + "-" + c.toString();
 			// tile.src = imgOrder.shift() + ".jpeg"
 			// tile.src = "C:/Puzzle_Game/Images/" + imgOrder.shift() + ".jpeg";
-			tile.src = `C:/Puzzle_Game/Images/${imgOrder.shift()}.jpeg`
+			tile.src = `./Images/${imgOrder.shift()}.jpeg`
 
 			//DRAG FUNCTIONALITY
 			tile.addEventListener("dragstart", dragStart); // click an image to drag
